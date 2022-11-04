@@ -1,0 +1,39 @@
+.title-text{
+    margin-top: 150px;
+    text-align: center;
+    justify-content: center;
+}
+
+.text h1{
+    color: #3b5d79;
+    font-size: 50px;
+    font-weight: 800;
+    margin: -10px;
+    text-align: center;
+}
+
+.text p {
+    color: #573f28;
+    font-size: 20px;
+    margin: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.after-text {
+    margin-top: 25px;
+    background-color: #008cff;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.after-text:hover {
+    color: white;
+}
