@@ -11,6 +11,7 @@ function App() {
         backgroundImage: `url("https://i.pinimg.com/564x/a5/91/17/a59117a046cbc0082afe2ce27622c0c4.jpg")`,
       }}
     >
+      {/* First demo react website */}
       <NavBar />
       <Title />
       <Container />
