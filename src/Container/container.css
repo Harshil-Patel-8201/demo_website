@@ -17,7 +17,14 @@
     text-align: left;
 }
 
+.icon{
+    padding: 15px 0px;
+    font-size: 25px;
+    color: #008cff;
+}
+
 .content h1{
+    padding: 15px 0px;
     font-size: 20px;
     color: #45647c;
     font-weight: 400;
